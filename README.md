@@ -11,8 +11,8 @@ El repositorio debe contener los siguientes archivos en la misma carpeta para ga
 
 *   `servidor_monitoreo.py` -> Código del Centro de Monitoreo Central (Servidor).
 *   `cliente_camara.py` -> Código unificado e interactivo de las terminales de CCTV (Cliente).
-*   `malvinas_1.mp4` -> Grabación de la Cámara 1 (Perspectiva Izquierda - Acceso Principal).
-*   `malvinas_2.mp4` -> Grabación de la Cámara 2 (Perspectiva Derecha - Área de Hall).
+*   `malvinas_1.mp4` -> Grabación de la Cámara 1 (Perspectiva Derecha - Acceso Principal).
+*   `malvinas_2.mp4` -> Grabación de la Cámara 2 (Perspectiva Izquierda - Área de Hall).
 *   `README.md` -> Guía de uso e instrucciones del repositorio.
 
 ## 🛠️ Requisitos e Instalación
