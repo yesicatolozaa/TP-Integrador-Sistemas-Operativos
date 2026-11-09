@@ -8,8 +8,8 @@ PORT = 5005
 
 def seleccionar_perspectiva():
     print("=== CONFIGURACIÓN DE CCTV - EDIFICIO MALVINAS ARGENTINAS (UNAHUR) ===")
-    print("1. Iniciar transmisión: Perspectiva Izquierda")
-    print("2. Iniciar transmisión: Perspectiva Derecha")
+    print("1. Iniciar transmisión: Perspectiva Derecha")
+    print("2. Iniciar transmisión: Perspectiva Izquierda")
     
     while True:
         opcion = input("Seleccione el número de cámara a simular (1 o 2): ").strip()
