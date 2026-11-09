@@ -1,4 +1,7 @@
 # Centro de Monitoreo CCTV - Edificio Malvinas Argentinas (UNAHUR)
+**Integrantes:**
+* Yesica Toloza
+* Nair Paz
 
 Este proyecto es el Trabajo Práctico Integrador para la materia **Sistemas Operativos (2C 2026)** de la Universidad Nacional de Hurlingham. Consiste en un sistema de videovigilancia distribuido que simula la transmisión en tiempo real de dos perspectivas distintas del Edificio Malvinas Argentinas mediante **Sockets TCP Concurrentes**.
 
